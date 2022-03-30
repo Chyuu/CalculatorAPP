@@ -11,8 +11,8 @@
   
      background-image: radial-gradient(
       circle farthest-corner at 84.7% 4.3%,
-      rgba(173, 0, 172, 1) 0%,
-      rgba(15, 51, 93, 1) 90%
+      rgb(187, 13, 187) 0%,
+      rgb(15, 47, 83) 90%
     ); 
   }
 
